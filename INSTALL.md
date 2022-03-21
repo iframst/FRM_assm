@@ -1,6 +1,9 @@
 Install FRM_assm pipeline
 =========================
 
+It is possible to use this pipeline with Apple Silicon Macs, either through Rosetta2 or by building the dependencies from source.
+
+
 This pipeline combines these third-party tools:
 
 * [Porechop](https://github.com/rrwick/Porechop)
