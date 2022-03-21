@@ -8,8 +8,8 @@ This pipeline combines these third-party tools:
 
 * [Porechop](https://github.com/rrwick/Porechop)
 * [Flye](https://github.com/fenderglass/Flye)
-* [minimap2](https://github.com/lh3/minimap2)
-* [racon](https://github.com/isovic/racon)
+* [Minimap2](https://github.com/lh3/minimap2)
+* [Racon](https://github.com/isovic/racon)
 
 It is reccomended to create a new conda environment with biodonda to install the dependencies:
 
