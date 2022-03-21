@@ -18,6 +18,7 @@ printf "************************************************************************
 
 mkdir $outDir
 
+#main assembly pipeline here
 for file in ${readDir}/*.fastq; do
 
 (
