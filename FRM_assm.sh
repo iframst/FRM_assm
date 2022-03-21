@@ -39,8 +39,12 @@ for file in ${readDir}/*.fastq; do
     
     minimap2 -x map-ont --secondary=no -t 10 $outDir/$runID/${runID}_flye/assembly.fasta $outDir/$runID/${runID}_trimed.fastq > $outDir/$runID/${runID}_mm2.paf
     
-    racon $outDir/$runID/${runID}_trimed.fastq $outDir/$runID/${runID}_mm2.paf $outDir/$runID/${runID}_flye/assembly.fasta -t $threads $outDir/$runID/${runID}_polished.fasta
+    racon $outDir/$runID/${runID}_trimed.fastq $outDir/$runID/${runID}_mm2.paf $outDir/$runID/${runID}_flye/assembly.fasta -t $threads > $outDir/$runID/${runID}_polished.fasta
     )
 done
+printf "\n\n*******************************************************************************\n"
+printf "Run finished on $(date)\n"
+printf "*******************************************************************************\n\n"
 
-
+print "Thanks for using FRM assembly pipeline. Please cite the following in your work:\n\n"
+print "PUBLICATION PENDING"
