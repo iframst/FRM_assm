@@ -3,7 +3,7 @@ Install FRM_assm pipeline
 
 This pipeline combines these third-party tools:
 
-* [Porechop] (https://github.com/rrwick/Porechop)
+* [Porechop](https://github.com/rrwick/Porechop)
 * [Flye](https://github.com/fenderglass/Flye)
 * [minimap2](https://github.com/lh3/minimap2)
 * [racon](https://github.com/isovic/racon)
