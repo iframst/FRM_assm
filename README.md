@@ -1,6 +1,8 @@
 FRM_assm
 ==============
 
+Fastidious respiratory *Mycoplasma* whole genome assembly
+
 A *de novo* assembly pipeline for Fastidious respiratory *Mycoplasma spp.* using publicly available open source-tools. It takes demultiplexed reads from GUPPY and putputs polished *de novo* assemblies. This pipleline is optomized for Mycoplasma spp. and can be run on most modern Mac or Linux computers. 
 
 Manuals
