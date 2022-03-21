@@ -1,6 +1,10 @@
 # Isaac Framst
 # University of Guelph, Pahtobiology 
 # Supervisor: Dr. Grazieli Maboni
+
+
+# FRM_assm main pipeline
+
 #*************************************************
 
 echo "please specify directory for demultiplexed reads"
@@ -50,3 +54,5 @@ printf "************************************************************************
 
 print "Thanks for using FRM assembly pipeline. Please cite the following in your work:\n\n"
 print "PUBLICATION PENDING"
+
+#EOF
