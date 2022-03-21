@@ -6,8 +6,8 @@ A *de novo* assembly pipeline for Fastidious respiratory *Mycoplasma spp.* using
 Manuals
 -------
 
-- [installation instructions] (INSTALL.md)
-- [Usage] (USAGE.md)
+- [installation instructions] (./INSTALL.md)
+- [Usage] (./USAGE.md)
 
 Publications
 ------------
