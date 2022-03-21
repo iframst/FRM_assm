@@ -31,6 +31,6 @@ Download the pipeline shell script:
     git clone https://github.com/iframst/FRM_assm.git
     cd FRM_assm
 
-[Run the pipeline](docs/USAGE.md)
+[Run the pipeline](USAGE.md)
 
 
