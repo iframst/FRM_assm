@@ -28,6 +28,6 @@ Example input directory structure:
 Finished assemblies and accompanying data are written to a directory corresponding to the input .fastq.
 
 Example output directory structure:
-
+    
 
 
