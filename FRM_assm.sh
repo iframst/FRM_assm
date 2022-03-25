@@ -52,7 +52,7 @@ printf "\n\n********************************************************************
 printf "Run finished on $(date)\n"
 printf "*******************************************************************************\n\n"
 
-print "Thanks for using FRM assembly pipeline. Please cite the following in your work:\n\n"
-print "PUBLICATION PENDING"
+echo "Thanks for using FRM assembly pipeline. Please cite the following in your work:\n\n"
+echo "PUBLICATION PENDING"
 
 #EOF
