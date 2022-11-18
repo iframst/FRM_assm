@@ -19,7 +19,8 @@ Manuals
 
 Publications
 ------------
-*Pending review JCM*
+Framst, I., C, D. A., Baquero, M., & Maboni, G. (2022). Development of a long-read next generation sequencing workflow for improved characterization of fastidious respiratory mycoplasmas. Microbiology (Reading), 168(11). https://doi.org/10.1099/mic.0.001249 
+
 
 Please also include the following references:
 
